@@ -4,6 +4,7 @@ freeraum
 Freeraum - Tu Espacio Libre
 
 Test the site at www.freeraum.com
+
 Tutorial drupal with git: https://www.drupal.org/node/803746
 
 <h3> Steps to clone the project to your local environment:</h3>
