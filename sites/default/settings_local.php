@@ -634,9 +634,9 @@ ini_set('session.cookie_lifetime', 2000000);
 #   include __DIR__ . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'h3rv1d3AsStYl3S2',
-  'username' => 'h3rv1d3AsStYl3S2',
-  'password' => 'F3rn4nd@mAdLj0',
+  'database' => 'xxxx',
+  'username' => 'xxxx',
+  'password' => 'xxxx',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',
