@@ -1,6 +1,12 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 
+#Ignore database files for now. We should keep login/password save. So we should create a script to export the database without user ifnormation
+backup_db/
+sites/default/settings.php
+sites/default/settings_1and1.php
+sites/default/settings_Hervideas.php
+
 # Ignore paths that contain generated content.
 cache/
 files/
